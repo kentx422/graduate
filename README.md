@@ -1,10 +1,9 @@
-graduate
-卒業研究
+卒業研究(HMDを用いた拡張現実における手書き支援システム)
 ====
 
-![エビフライトライアングル](https://github.com/kentx422/Resource/blob/master/img/graduate_intro.png?raw=true "サンプル")
+![graduate](https://github.com/kentx422/Resource/blob/master/img/graduate_intro.png?raw=true)
 Overview
-
+HMDとモーションセンサによる拡張現実を使って字を綺麗に書くためのシステム
 
 ## Description
 
