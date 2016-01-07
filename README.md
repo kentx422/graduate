@@ -20,10 +20,10 @@
 
 ##Equipment
 
-・ HMD(Head Mount Display)
-・ モーションセンサ
-・ ステレオカメラ
-・ コンピュータ
+* HMD(Head Mount Display)  
+* モーションセンサ  
+* ステレオカメラ
+* コンピュータ  
 
 ## Usage
 
