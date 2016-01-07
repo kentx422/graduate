@@ -2,7 +2,7 @@ graduate
 卒業研究
 ====
 
-
+![エビフライトライアングル](https://github.com/kentx422/Resource/blob/master/img/graduate_intro.png?raw=true "サンプル")
 Overview
 
 
