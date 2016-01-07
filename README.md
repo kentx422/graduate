@@ -2,15 +2,15 @@
 ====
 
 ![graduate](https://github.com/kentx422/Resource/blob/master/img/graduate_intro.png?raw=true)
-Overview
 HMDとモーションセンサによる拡張現実を使って字を綺麗に書くためのシステム
 
 ## Description
 
 
 ## Demo
+[![write](http://img.youtube.com/vi/Op5xyvNrfpg/0.jpg)](https://www.youtube.com/watch?v=Op5xyvNrfpg)
 
-
+##Equipment
 
 ## Usage
 
